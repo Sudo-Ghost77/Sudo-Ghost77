@@ -4,7 +4,7 @@
 <!-- Red Team Practice badge / slogan -->
 <p align="center">
   <strong style="background:#000000;color:#ffffff;padding:8px 12px;border-radius:6px;font-weight:700;font-family:system-ui,Segoe UI,Helvetica,Arial,sans-serif;">
-    PRACTICING & LEARNING RED TEAMING — <span style="letter-spacing:1px;">INNOVATION IS NOT PERMISSIONED</span>
+    PRACTICING & LEARNING RED TEAMING — <span style="letter-spacing:1px;">💻INNOVATION IS NOT PERMISSIONED🎭</span>
   </strong>
 </p>
 
@@ -26,10 +26,9 @@
 
 | Domain | Status |
 |---|---|
-Cybersecurity | 🟡 Learning  
-Networking (DNS, TCP/IP, Wireshark) | 🟡 Labs ongoing  
+Networking (DNS, TCP/IP, Wireshark) | 🟢 ACTIVE
 Python GUI Tools | 🟢 Active  
-AI / ML Basics | 🟡 Starting  
+AI / ML Basics | 🟡 Learning 
 Android / Web | ⚪ Beginner  
 AWS Basics | ⚪ Beginner  
 
